@@ -1,4 +1,4 @@
 # 1FTR
 
-# Full stack developer
-- mainly a php developer
+## Full stack developer
+- Experienced PHP developer
