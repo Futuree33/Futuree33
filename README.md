@@ -2,4 +2,5 @@
 
 ## Full stack developer
 - Experienced PHP Developer
-- Experienced With NodeJS (ExpressJS and Electron)
+- Experienced With NodeJS (React, Electron, Express)
+- Experienced With Golang
