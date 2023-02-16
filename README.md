@@ -1,6 +1,6 @@
 # 1FTR
 
-## Full stack developer
-- Experienced PHP Developer
-- Experienced With NodeJS (React, Electron, Express, Svelte)
-- Experienced With Golang
+## Full stack web developer
+- Experienced PHP Developer (Laravel, Stripe SDK)
+- Experienced With NodeJS (React, Electron, Express, Svelte, SvelteKit)
+- Mid Experience With Golang (Fiber, Gorm, Stripe SDK)
