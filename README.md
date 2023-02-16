@@ -6,7 +6,7 @@
 - Mid Experience With Golang (Fiber, Gorm, Stripe SDK)
 - Mid Experience With Python and C#
 
-## Projects I Have Made
+## Projects
 - PHP Forums
 - PHP ORM 
 - PHP Router with ORM and MVC 
