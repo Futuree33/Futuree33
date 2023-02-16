@@ -1,7 +1,7 @@
 # 1FTR 
 ### Full Stack Web Developer
 
-## Full stack web developer
+## Experience
 - Experienced PHP Developer (Laravel, Stripe SDK)
 - Experienced With NodeJS (React, Electron, Express, Svelte, SvelteKit)
 - Mid Experience With Golang (Fiber, Gorm, Stripe SDK)
