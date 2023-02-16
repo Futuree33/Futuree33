@@ -6,14 +6,14 @@
 - Mid Experience With Golang (Fiber, Gorm, Stripe SDK)
 - Mid Experience With Python and C#
 
-## Other
-- Tailwindcss
-- Bootstrap 
-- Html, Css, Js
-- SQL
-
 ## Projects I Have Made
 - PHP Forums
 - PHP ORM 
 - PHP Router with ORM and MVC 
 - PHP Discord api wrapper
+
+## Other
+- Tailwindcss
+- Bootstrap 
+- Html, Css, Js
+- SQL
