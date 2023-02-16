@@ -1,4 +1,4 @@
-# 1FTR 
+# 1ftr 
 ### Full Stack Web Developer
 
 ## Experience
