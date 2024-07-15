@@ -1,1 +1,1 @@
-Full Stack Developer with 6 years experience.
+Full stack developer.
